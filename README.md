@@ -127,7 +127,7 @@ You can also link to other locations on your markdown page. Remember, your Markd
 
 When we create a header tag for example, it implicitly creates an id property.
 
-Ex '# Header' becomes `<h1 id="header">Header</h1>`
+Ex - '# Header' becomes `<h1 id="header">Header</h1>`
 
 Names will be converted to ids by replacing spaces with hyphens and uppercase letters with lowercase letters (think css naming convention).
 
@@ -189,8 +189,6 @@ Since Markdown gets automatically converted to HTML, you can add raw HTML direct
 
 You can also add custom CSS to your Markdown to add additional styling to your document. You can also include CSS by including a style tag.
 
-<!-- TODO: Find out why custom style works perfectly on vs code markdown preview but doesn't reflect style changes in github readme  -->
-
 ```css
 <style>
 .paragraph{
@@ -201,3 +199,5 @@ You can also add custom CSS to your Markdown to add additional styling to your d
 }
 </style>
 ```
+
+Note - Custom CSS is supported by markdown but GitHub ignores custom CSS, so whatever written inside `<style></style>` tag won't show any difference in GitHub markdown preview.
