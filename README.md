@@ -7,7 +7,7 @@
 
 <br/>
 <details open="open">
-  <summary>Table Of Contents</summary>
+  <summary><strong>Table of Contents</strong></summary>
 
 - [Headers](#headers)
 - [Quotes](#quotes)
