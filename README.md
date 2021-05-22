@@ -7,6 +7,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<br />
 <p align="center">
 <img src="./content/images/markdown-logo.png" alt="Markdown" heigh="150" width="150">
 <p align="center">Markdown Cheat Sheet</p>
@@ -14,7 +15,7 @@
 
 ---
 
-<br/>
+<br />
 <details open="open">
   <summary><strong>Table of Contents</strong></summary>
 
