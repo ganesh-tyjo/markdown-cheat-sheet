@@ -181,11 +181,15 @@ You can also align (center, left, right) the text in a column by using colons (:
 
 Since Markdown gets automatically converted to HTML, you can add raw HTML directly to your Markdown.
 
+```html
 <p class="paragraph">This is a paragraph created with HTML</p>
+```
 
 ## Custom CSS
 
 You can also add custom CSS to your Markdown to add additional styling to your document. You can also include CSS by including a style tag.
+
+<!-- TODO: Find out why custom style works perfectly on vs code markdown preview but doesn't reflect style changes in github readme  -->
 
 ```css
 <style>
@@ -197,12 +201,3 @@ You can also add custom CSS to your Markdown to add additional styling to your d
 }
 </style>
 ```
-
-<style>
-.paragraph{
-  color:#31a1d6;
-  border: 1px solid #e8e9ea;
-  border-radius:15px;
-  padding:10px;
-}
-</style>
