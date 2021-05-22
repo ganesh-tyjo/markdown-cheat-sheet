@@ -1,3 +1,12 @@
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <p align="center">
 <img src="./content/images/markdown-logo.png" alt="Markdown" heigh="150" width="150">
 <p align="center">Markdown Cheat Sheet</p>
@@ -201,3 +210,18 @@ You can also add custom CSS to your Markdown to add additional styling to your d
 ```
 
 Note - Custom CSS is supported by markdown but GitHub ignores custom CSS, so whatever written inside `<style></style>` tag won't show any difference in GitHub markdown preview.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/ganesh-tyjo/markdown-cheat-sheet.svg?style=for-the-badge
+[contributors-url]: https://github.com/ganesh-tyjo/markdown-cheat-sheet/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ganesh-tyjo/markdown-cheat-sheet.svg?style=for-the-badge
+[forks-url]: https://github.com/ganesh-tyjo/markdown-cheat-sheet/network/members
+[stars-shield]: https://img.shields.io/github/stars/ganesh-tyjo/markdown-cheat-sheet.svg?style=for-the-badge
+[stars-url]: https://github.com/ganesh-tyjo/markdown-cheat-sheet/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ganesh-tyjo/markdown-cheat-sheet.svg?style=for-the-badge
+[issues-url]: https://github.com/ganesh-tyjo/markdown-cheat-sheet/issues
+[license-shield]: https://img.shields.io/github/license/ganesh-tyjo/markdown-cheat-sheet.svg?style=for-the-badge
+[license-url]: https://github.com/ganesh-tyjo/markdown-cheat-sheet/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/ganesh-tyjo
