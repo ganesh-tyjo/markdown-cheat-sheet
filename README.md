@@ -10,7 +10,7 @@
 <br />
 <p align="center">
 <img src="./content/images/markdown-logo.png" alt="Markdown" heigh="150" width="150">
-<p align="center">Markdown Cheat Sheet</p>
+<p align="center"><strong>Markdown Cheat Sheet</strong></p>
 </p>
 
 ---
