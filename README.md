@@ -15,6 +15,9 @@
 
 ---
 
+This cheat sheet is all you need to learn Markdown.
+All the best creating those awesome README files and writing blogs.:thumbsup:
+
 <br />
 <details open="open">
   <summary><strong>Table of Contents</strong></summary>
